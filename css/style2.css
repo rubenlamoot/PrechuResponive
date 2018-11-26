@@ -1,0 +1,61 @@
+
+/* css mobile versie */
+
+
+
+/* enkel voor position absolute */
+.iphone{
+    top: 0px;
+    left: 0px;
+}
+
+#carouselExampleControls > div > div > div > div{
+    top: 10px;
+}
+#carouselExampleControls h2{
+    color: #fff;
+    font-weight: 100
+}
+
+.bollen h3{
+    color: #73a9f5;
+}
+.potlood img{
+    background: #5094f2;
+}
+.computer img{
+    background: #d94748;
+}
+.basket img{
+    background: #ebbb11;
+}
+.shoppingcart h2{
+    font-size: 42px;
+    color: #6f7173;
+}
+.shoppingcart h3{
+    font-size: 26px;
+    color: #6f7173;
+}
+
+
+/* media queries */
+
+/* Extra small devices (portrait phones, less than 576px)  small devices
+ No media query for `xs` since this is the default in Bootstrap */
+
+/*Small devices (landscape phones, 576px and up) small  */
+@media (min-width: 576px) { }
+
+/* Medium devices (tablets, 768px and up) medium */
+@media (min-width: 768px) { }
+
+/* Large devices (desktops, 992px and up) large */
+@media (min-width: 992px) {
+    .navbarheight{
+        height: 90px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { }

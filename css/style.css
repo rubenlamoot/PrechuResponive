@@ -1,0 +1,25 @@
+.eerstecontainer{
+    background: aqua;
+}
+
+.tweedecontainer{
+    background:green;
+}
+.vierkant{
+    height: 100px;
+    width: 100px;
+    background: red;
+
+}
+.derdecontainer{
+    background: yellow;
+}
+.blokje{
+    height: 50px;
+    width: 50px;
+    background: red;
+}
+.vierdecontainer{
+    background: cyan;
+
+}
